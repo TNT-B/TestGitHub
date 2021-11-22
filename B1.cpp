@@ -12,7 +12,7 @@ bool isAscendingOrder(int a[], int n);
 int countOccurrences(int a[], int n);
 void deleteItems(int a[], int &n, int x);
 void deleteItemsFromIndex(int a[], int &n);
-cgchgjcgcgcj
+
 int main()
 {
 	int a[1000], n;
