@@ -13,8 +13,6 @@ int countOccurrences(int a[], int n);
 void deleteItems(int a[], int &n, int x);
 void deleteItemsFromIndex(int a[], int &n);
 
-
-
 int main()
 {
 	int a[1000], n;
